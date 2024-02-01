@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Yona (@YokaiYona)
+- 👀 I’m interested in learning about programming.
+- 🌱 I’m currently learning Python, HTML and CSS.
